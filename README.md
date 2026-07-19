@@ -15,7 +15,7 @@ and feel good to use.
 
 ---
 
-## about me
+## About me
 
 Most of my projects start with:
 
@@ -31,7 +31,7 @@ Then I usually end up building it.
 
 ---
 
-## featured builds
+## Featured builds
 
 ### 🃏 CardSlate
 
@@ -65,7 +65,7 @@ My interactive developer portfolio, designed as a late-night project terminal in
 
 ---
 
-## toolbox
+## Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript" alt="TypeScript" />
@@ -80,7 +80,7 @@ My interactive developer portfolio, designed as a late-night project terminal in
 
 ---
 
-## currently
+## Currently
 
 - Building a private creator-focused storefront
 - Improving my testing, performance, and accessibility workflows
@@ -104,7 +104,7 @@ I especially enjoy building products around industries and communities I actuall
 
 <div align="center">
 
-### let's build something cool
+### Let's build something cool
 
 [Portfolio](https://bezeer.app) •
 [GitHub](https://github.com/BezeeR)
