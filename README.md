@@ -1,6 +1,6 @@
 <div align="center">
 
-# yo, i'm BezeeR 👾
+# Yo, I'm BezeeR 👾
 
 ### gamer • freelance developer • late-night builder
 
